@@ -1,8 +1,6 @@
 {
   "personal":{
-    "flat-adventures":{
-      "display":"pr1.0.0",
-      "internal":0
-    }
+    "flat-adventures":["pr1.0.0", 0],
+    "aicc":"r1.0.3"
   }
 }
